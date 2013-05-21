@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "992fd5984e5d6da3455e66bd937d27b2",
+    "hash": "f51e63de2015168f6d3e8ffa6147aefd",
     "packages": [
         {
             "name": "doctrine/common",
@@ -161,12 +161,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ezsystems/ezpublish-kernel.git",
-                "reference": "37534282267ed723ddae280164424866474f0a00"
+                "reference": "d4d5514b4f1c601e31db1861172f4942f50f6630"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ezsystems/ezpublish-kernel/zipball/37534282267ed723ddae280164424866474f0a00",
-                "reference": "37534282267ed723ddae280164424866474f0a00",
+                "url": "https://api.github.com/repos/ezsystems/ezpublish-kernel/zipball/d4d5514b4f1c601e31db1861172f4942f50f6630",
+                "reference": "d4d5514b4f1c601e31db1861172f4942f50f6630",
                 "shasum": ""
             },
             "require": {
@@ -221,7 +221,7 @@
             ],
             "description": "eZ Publish API and kernel. This is the heart of eZ Publish 5.",
             "homepage": "http://share.ez.no",
-            "time": "2013-05-17 22:38:30"
+            "time": "2013-05-24 13:20:53"
         },
         {
             "name": "kriswallsmith/assetic",
